@@ -1,6 +1,6 @@
 # Project Presentations
 
-By this time in your life, you have most likely been on the receiving end of a bad presentation and have assuredly seen a mediocre presentation. What made those presentations lackluster? Faults in presentations can be assigned to three categories: **presentation content** , **slide design** , and **delivery**_**. 
+By this time in your life, you have most likely been on the receiving end of a bad presentation and have assuredly seen a mediocre presentation. What made those presentations lackluster? Faults in presentations can be assigned to three categories: **presentation content** , **slide design** , and **delivery**. 
 
 Project presentations, and the slides that support them, demonstrate to employers your skills in communication and you ability to target your communication to a particular audience. As part of a data science team, you will be expected to communicate results to a variety of audiences. Thoughtful planning and intentional review of your presentation materials will help you to showcase your abilities to future employers - not only those employers who explore the slides linked within your project repositories, but also those employers who expect you to discuss those projects in detail. 
 
