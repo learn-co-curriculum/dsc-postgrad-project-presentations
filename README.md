@@ -12,7 +12,7 @@ In these sections, we will focus on **presentation content** and **slide design*
 - list the content sections that are expected in a data science presentation
 - create an outline for your presentation
 - review content of an example presentation
-- identifty areas where an example presentation could improve
+- identify areas where an example presentation could improve
 - apply content review techniques to your own presentation materials and revise your own presentation content
 
 ## To examine slide _design_, you will:
